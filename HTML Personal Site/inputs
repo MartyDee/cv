@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<!-- Created by Marty Dee Donovan -->
+  <head>
+    <meta charset="utf-8">
+    <title>Table template</title>
+    <link href="minimal-table.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h1>Different Inputs</h1>
+    <h3>
+    This is a demonstration of HTML inputs that can be used on a form page.</h3>
+  <br>
+    <br>
+  <h3>This is a name box, with a colour chooser with it...
+    <form class="" action="index.html" method="post">
+        <label for="">NAME</label>
+        <input type="text" name="">
+        <input type="submit" name="">
+        <input type="color" name="">
+
+
+  </body>
+</html>
+© 2021 MedwaySound Ltd .
